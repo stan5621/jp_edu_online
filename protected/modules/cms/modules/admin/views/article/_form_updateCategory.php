@@ -1,0 +1,23 @@
+<div class="form">
+    <?php $form=$this->beginWidget(
+        'bootstrap.widgets.TbActiveForm',
+        array(
+            'id'=>'course-category-form',
+            'enableAjaxValidation'=>false,
+        )
+    ); ?>
+
+    <?php echo $form->errorSummary($model); ?>
+
+        <div class="">
+        <?php echo $form->labelEx($model,'name'); ?>
+        <?php echo $form->textField($model,'name',array('size'=>60,'maxlength'=>255)); ?>
+        <?php echo $form->error($model,'name'); ?>
+        </div>
+
+        <div class="buttons">
+        <?php echo CHtml::submitButton($model->isNewRecord ? 'Create' : 'Save', array('class'=>'btn btn-default')); ?>
+        </div>
+
+    <?php $this->endWidget(); ?>
+</div>
