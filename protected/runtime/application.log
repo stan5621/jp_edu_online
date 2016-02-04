@@ -1,0 +1,2078 @@
+2014/10/28 07:00:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:01:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:02:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:03:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:04:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:05:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:06:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:07:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:08:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:09:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:10:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:11:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:12:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:13:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:14:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:15:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:16:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:17:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:18:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:19:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:20:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:21:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:22:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:23:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:24:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:25:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:26:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:27:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:28:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:29:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:31:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:32:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:33:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:34:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:35:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:36:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:37:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:39:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:40:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:41:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:43:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:44:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:45:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:47:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:47:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:49:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:51:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:51:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:53:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:56:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:58:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 07:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:01:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:04:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:06:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:08:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:10:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:12:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:14:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:16:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:17:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:20:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:22:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:24:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:25:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:27:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:30:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:31:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:33:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:35:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:37:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:39:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:42:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:44:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:45:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:48:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:50:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:51:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:53:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:55:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:57:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 08:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:01:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:03:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:06:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:08:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:11:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:14:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:16:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:17:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:19:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:21:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:23:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:25:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:30:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 09:32:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:02:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:02:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:05:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:07:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:09:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:11:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:13:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:15:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:17:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:30:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:31:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:33:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:35:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:37:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 10:39:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:28:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:28:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:30:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:32:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:34:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:36:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:38:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:40:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:44:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:46:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:48:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/28 11:53:12 [error] [exception.CException] exception 'CException' with message '别名 "ext.videojs.MVideoJsPlayer" 无效。请确认它指向一个存在的PHP文件。' in /Users/liang/workspace/php/eduwind150os/yii/framework/YiiBase.php:322
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWidgetFactory.php(146): YiiBase::import('ext.videojs.MVi...', true)
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(LessonController), 'ext.videojs.MVi...', Array)
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(172): CBaseController->createWidget('ext.videojs.MVi...', Array)
+#3 /Users/liang/workspace/php/eduwind150os/protected/modules/course/views/lesson/_file_video.php(18): CBaseController->widget('ext.videojs.MVi...', Array)
+#4 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(126): require('/Users/liang/wo...')
+#5 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Users/liang/wo...', Array, true)
+#6 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(869): CBaseController->renderFile('/Users/liang/wo...', Array, true)
+#7 /Users/liang/workspace/php/eduwind150os/protected/modules/course/views/lesson/_view.php(41): CController->renderPartial('/lesson/_file_v...', Array)
+#8 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(126): require('/Users/liang/wo...')
+#9 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Users/liang/wo...', Array, true)
+#10 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(869): CBaseController->renderFile('/Users/liang/wo...', Array, true)
+#11 /Users/liang/workspace/php/eduwind150os/protected/modules/course/views/lesson/view.php(17): CController->renderPartial('/lesson/_view', Array)
+#12 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(126): require('/Users/liang/wo...')
+#13 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Users/liang/wo...', Array, true)
+#14 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(869): CBaseController->renderFile('/Users/liang/wo...', Array, true)
+#15 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#16 /Users/liang/workspace/php/eduwind150os/protected/modules/course/controllers/LessonController.php(137): CController->render('view', Array)
+#17 [internal function]: LessonController->actionView('163')
+#18 /Users/liang/workspace/php/eduwind150os/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(LessonController), Array)
+#19 /Users/liang/workspace/php/eduwind150os/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(LessonController), Object(ReflectionMethod), Array)
+#20 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#21 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#22 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#23 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#24 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#25 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#26 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(291): CFilterChain->run()
+#27 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#29 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('course/lesson/v...')
+#30 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#31 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#32 {main}
+REQUEST_URI=/eduwind150os/course/lesson/view/id/163
+HTTP_REFERER=http://localhost/eduwind150os/course/index/view/id/36
+---
+2014/10/28 11:57:18 [error] [exception.CException] exception 'CException' with message '别名 "ext.videojs.MVideoJsPlayer" 无效。请确认它指向一个存在的PHP文件。' in /Users/liang/workspace/php/eduwind150os/yii/framework/YiiBase.php:322
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWidgetFactory.php(146): YiiBase::import('ext.videojs.MVi...', true)
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(LessonController), 'ext.videojs.MVi...', Array)
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(172): CBaseController->createWidget('ext.videojs.MVi...', Array)
+#3 /Users/liang/workspace/php/eduwind150os/protected/modules/course/views/lesson/_file_video.php(18): CBaseController->widget('ext.videojs.MVi...', Array)
+#4 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(126): require('/Users/liang/wo...')
+#5 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Users/liang/wo...', Array, true)
+#6 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(869): CBaseController->renderFile('/Users/liang/wo...', Array, true)
+#7 /Users/liang/workspace/php/eduwind150os/protected/modules/course/views/lesson/_view.php(41): CController->renderPartial('/lesson/_file_v...', Array)
+#8 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(126): require('/Users/liang/wo...')
+#9 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Users/liang/wo...', Array, true)
+#10 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(869): CBaseController->renderFile('/Users/liang/wo...', Array, true)
+#11 /Users/liang/workspace/php/eduwind150os/protected/modules/course/views/lesson/view.php(17): CController->renderPartial('/lesson/_view', Array)
+#12 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(126): require('/Users/liang/wo...')
+#13 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Users/liang/wo...', Array, true)
+#14 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(869): CBaseController->renderFile('/Users/liang/wo...', Array, true)
+#15 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#16 /Users/liang/workspace/php/eduwind150os/protected/modules/course/controllers/LessonController.php(137): CController->render('view', Array)
+#17 [internal function]: LessonController->actionView('163')
+#18 /Users/liang/workspace/php/eduwind150os/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(LessonController), Array)
+#19 /Users/liang/workspace/php/eduwind150os/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(LessonController), Object(ReflectionMethod), Array)
+#20 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#21 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#22 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#23 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#24 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#25 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#26 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(291): CFilterChain->run()
+#27 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#29 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('course/lesson/v...')
+#30 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#31 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#32 {main}
+REQUEST_URI=/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 12:37:48 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:37:48 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:37:48 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:37:48 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:37:49 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:37:49 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:37:49 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:37:49 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:37:49 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 12:37:49 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 12:37:49 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 12:37:49 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 12:38:43 [error] [php] include(Page.php): failed to open stream: No such file or directory (/Users/liang/workspace/php/eduwind150os/yii/framework/YiiBase.php:427)
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/protected/controllers/PageController.php(62): spl_autoload_call()
+#1 /Users/liang/workspace/php/eduwind150os/protected/controllers/PageController.php(42): PageController->loadModel()
+#2 unknown(0): PageController->actionView()
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#4 /Users/liang/workspace/php/eduwind150os/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#5 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(133): PageController->runAction()
+#7 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#9 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CInlineFilter.php(58): PageController->filterAccessControl()
+#10 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#11 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(291): CFilterChain->run()
+#12 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(265): PageController->runActionWithFilters()
+#13 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): PageController->run()
+#14 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#15 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#16 /Users/liang/workspace/php/eduwind150os/index.php(40): CWebApplication->run()
+REQUEST_URI=/eduwind150os/page/10
+in /Users/liang/workspace/php/eduwind150os/protected/controllers/PageController.php (62)
+in /Users/liang/workspace/php/eduwind150os/protected/controllers/PageController.php (42)
+in /Users/liang/workspace/php/eduwind150os/index.php (40)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 12:58:38 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 12:58:42 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:58:42 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:58:42 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:58:42 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 12:58:42 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:58:42 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:58:42 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:58:42 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 12:58:43 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/UpgradeClientController.php (57)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/UpgradeClientController.php (57)
+2014/10/29 12:58:43 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/UpgradeClientController.php (57)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/UpgradeClientController.php (57)
+2014/10/29 12:58:43 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/UpgradeClientController.php (57)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/UpgradeClientController.php (57)
+2014/10/29 12:58:43 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/UpgradeClientController.php (57)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/UpgradeClientController.php (57)
+2014/10/29 12:59:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "index" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cms/page')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/cms/page/10
+---
+2014/10/29 12:59:16 [error] [exception.CHttpException.400] exception 'CHttpException' with message '您的请求无效。' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:336
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(291): CFilterChain->run()
+#7 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#9 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cms/page/view/1...')
+#10 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#12 {main}
+REQUEST_URI=/eduwind150os/cms/page/view/10
+---
+2014/10/29 13:03:05 [error] [exception.CHttpException.400] exception 'CHttpException' with message '您的请求无效。' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:336
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(291): CFilterChain->run()
+#7 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#9 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cms/page/view/i...')
+#10 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#12 {main}
+REQUEST_URI=/eduwind150os/cms/page/view/id10
+---
+2014/10/29 13:03:11 [error] [exception.CHttpException.400] exception 'CHttpException' with message '您的请求无效。' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:336
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /Users/liang/workspace/php/eduwind150os/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(291): CFilterChain->run()
+#7 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#9 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cms/page/view/i...')
+#10 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#12 {main}
+REQUEST_URI=/eduwind150os/cms/page/view/id%E3%80%8110
+---
+2014/10/29 14:53:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 14:55:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 14:57:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 14:59:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:01:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:03:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:07:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:09:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:11:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:13:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:17:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:21:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:23:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:25:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:27:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:29:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:31:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:33:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:35:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:37:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:38:36 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 15:38:36 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 15:38:36 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 15:38:36 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (39)
+2014/10/29 15:38:38 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 15:38:38 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 15:38:38 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 15:38:38 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/components/UpgradeService.php (177)
+2014/10/29 15:38:38 [warning] [application] Failed to set unsafe attribute "superAdminEmail" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 15:38:38 [warning] [application] Failed to set unsafe attribute "startVersion" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 15:38:38 [warning] [application] Failed to set unsafe attribute "copyright" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 15:38:38 [warning] [application] Failed to set unsafe attribute "install" of "SiteForm".
+in /Users/liang/workspace/php/eduwind150os/protected/components/behaviors/SettingBehavior.php (82)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+in /Users/liang/workspace/php/eduwind150os/protected/modules/admin/controllers/SettingController.php (39)
+2014/10/29 15:39:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:41:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:44:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:47:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/29 15:51:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/30 03:54:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/30 03:56:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---
+2014/10/30 03:58:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "checklogin" 动作.' in /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php:483
+Stack trace:
+#0 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CController.php(270): CController->missingAction('checklogin')
+#1 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(282): CController->run('checklogin')
+#2 /Users/liang/workspace/php/eduwind150os/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('me/checklogin')
+#3 /Users/liang/workspace/php/eduwind150os/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/liang/workspace/php/eduwind150os/index.php(40): CApplication->run()
+#5 {main}
+REQUEST_URI=/eduwind150os/me/checklogin
+HTTP_REFERER=http://localhost/eduwind150os/course/lesson/view/id/163
+---

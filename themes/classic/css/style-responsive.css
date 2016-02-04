@@ -1,0 +1,44 @@
+@media (max-width: 767px) {
+	.dxd-banner .btn{
+		width: 80%;
+	}
+	.dxd-course-category .nav-list li{
+		display:inline-block;
+		padding:0 5px;
+	}
+	.dxd-course-category .nav-list li.nav-header{
+		display:none;
+	}
+	.dxd-course-category .nav-list .active a{
+		border:none;
+	}
+	.side-lined:after{
+		width:10%;
+	}
+	.side-lined:before{
+		width:10%;
+	}
+	.dxd-course-header-left2{
+	padding:10px 0;
+	}
+	.navbar-inverse{
+	margin-bottom:0;
+	}
+	
+	.dxd-self-introduction{
+		max-width:240px;
+	}
+	.dxd-course-operate{
+		position:relative;
+	}
+	.dxd-course-operate .dxd-course-learn-btn{
+		display:inline;
+	}
+	
+}
+
+@media (max-width: 979px) {
+	body{
+	padding-top:0px;
+	}
+}
