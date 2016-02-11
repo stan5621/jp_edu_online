@@ -1,8 +1,8 @@
 <?php  return array (
-  'connectionString' => 'mysql:host=localhost;dbname=eduwind150os',
+  'connectionString' => 'mysql:host=localhost;dbname=edu',
   'emulatePrepare' => true,
   'username' => 'root',
   'charset' => 'utf8',
   'tablePrefix' => 'ew_',
-  'password' => 'root',
+  'password' => '111111',
 );
