@@ -993,7 +993,7 @@ body {
   border-radius: 0;
 }
 .head-bar {
-  background-color: #0aac87;
+  background-color: pink;
   height: 90px;
   width: 100%;
 }
@@ -1014,13 +1014,13 @@ body {
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(112, 199, 192, 0.6);
 }
 .head-bar .search-form button.btn {
-  background-color: #00876b;
+  background-color: #DDDDDD;
   background-image: none;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
-  border-bottom-color: #00876b;
-  border-top-color: #00876b;
+  border-bottom-color: #DDDDDD;
+  border-top-color: #DDDDDD;
   box-shadow: none;
 }
 .navbar-inverse .navbar-inner {
@@ -1049,7 +1049,7 @@ body {
 .navbar-inverse .nav > li > a:hover,
 .main-nav .navbar-inverse .brand,
 .main-nav .navbar-inverse .nav > li.active > a {
-  color: #0aac87;
+  color: pink;
   box-shadow: none;
   background-color: #ffffff;
 }
@@ -1136,7 +1136,7 @@ a.theme-color,
   border: 0;
 }
 .course-category a.category-btn:hover {
-  background: #0aac87;
+  background: pink;
   color: #ffffff;
 }
 .course-list .nav-tabs > li {
@@ -1165,16 +1165,16 @@ a.theme-color,
 }
 .light-green,
 .light-green a {
-  color: #0aac87;
+  color: pink;
 }
 a.light-green:hover {
   color: #00876b;
 }
 .light-green-background {
-  background-color: #0aac87;
+  background-color: pink;
 }
 .green-background {
-  background-color: #00876b;
+  background-color: pink;
 }
 a.create-group-bar {
   background-color: #f5f5f5;
@@ -1188,7 +1188,7 @@ a.create-group-bar {
   text-decoration: none;
 }
 .create-group-bar:hover {
-  background-color: #0aac87;
+  background-color: pink;
   color: #ffffff;
 }
 .group-card-description {
@@ -1239,12 +1239,12 @@ a.create-group-bar {
 .course-category-tabs li.active a,
 .my-course-tabs li.active a,
 .group-post-tabs li.active a {
-  background-color: #0aac87;
+  background-color: pink;
 }
 .course-category-tabs li.active a:hover,
 .my-course-tabs li.active a:hover,
 .group-post-tabs li.active a:hover {
-  background-color: #00876b;
+  background-color: pink;
 }
 .course-category-order {
   margin-bottom: 50px;
@@ -1286,8 +1286,8 @@ a.create-group-bar {
   background-color: #ffffff;
 }
 .main-carousel .carousel-indicators li.active {
-  background-color: #0aac87;
-  _background: #0aac87;
+  background-color: pink;
+  _background: pink;
 }
 a.group-card-join {
   padding: 10px 20px;
@@ -1296,7 +1296,7 @@ a.group-card-join {
 }
 a.group-card-join:hover,
 .dxd-index-post-item a.group-card-join:hover {
-  background-color: #0aac87;
+  background-color: pink;
   color: #fff;
   text-decoration: none;
 }
@@ -1307,7 +1307,7 @@ a.group-posts-tab {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #0aac87;
+  background-color: pink;
   color: #ffffff;
 }
 .dxd-index-post-item a.group-card-join {
@@ -1330,7 +1330,7 @@ a.group-posts-tab {
 .nav-pills > .active > a:hover,
 .nav-pills > .active > a:focus {
   color: #fff;
-  background-color: #0aac87;
+  background-color: pink;
 }
 .nav-pills > li > a {
   padding-top: 8px;
@@ -1344,10 +1344,10 @@ a.group-posts-tab {
 }
 .progress-success.progress-striped .bar,
 .progress-striped .bar-success {
-  background-color: #0aac87;
+  background-color: pink;
 }
 .btn-success {
-  background-color: #0aac87;
+  background-color: pink;
   background-image: none;
 }
 .btn-success:hover {
@@ -1370,7 +1370,7 @@ a.group-posts-tab {
   top: 0;
   z-index: 10000;
   width: 100%;
-  border-bottom: 1px solid #0aac87;
+  border-bottom: 1px solid pink;
 }
 /**  创建新内容按钮  */
 .create-bar {
@@ -1386,7 +1386,7 @@ a.group-posts-tab {
 }
 .create-bar .create-bar-btn:hover {
   text-decoration: none;
-  background-color: #0aac87;
+  background-color: pink;
   color: #FFF;
 }
 /**  分页  */
@@ -1511,7 +1511,7 @@ a.group-posts-tab {
   text-decoration: none;
 }
 .group-index-addgroup .create-group-bar:hover {
-  background-color: #0aac87;
+  background-color: pink;
   color: white;
 }
 .group-header {
@@ -1563,7 +1563,7 @@ a.group-posts-tab {
   text-shadow: none;
 }
 .group-header .admin .btn:hover {
-  background: #0aac87;
+  background: pink;
   color: #FFF;
   font-weight: bold;
   text-shadow: none;
@@ -1578,7 +1578,7 @@ a.group-posts-tab {
   text-shadow: none;
 }
 .group-menu .btn:hover {
-  background-color: #0aac87;
+  background-color: pink;
   color: #FFF;
   font-weight: bold;
   text-shadow: none;
@@ -1846,10 +1846,10 @@ a.group-posts-tab {
   border-radius: 0;
 }
 #edu-group .group-post-tabs li a:hover {
-  background-color: #0aac87;
+  background-color: pink;
 }
 #edu-group .group-post-tabs li.active a {
-  background-color: #0aac87;
+  background-color: pink;
 }
 #edu-group .group-post-tabs li.active a:hover {
   background-color: #008e69;
@@ -1868,7 +1868,7 @@ a.group-posts-tab {
 }
 #edu-group .index-postlist .items .item .data .title {
   font-size: 18px;
-  color: #0aac87;
+  color: pink;
   white-space: nowrap;
 }
 #edu-group .index-postlist .items .item .data .content {
@@ -1913,11 +1913,11 @@ a.group-posts-tab {
   color: #999;
 }
 #edu-group #post-tab-group-all .group-card .data .name {
-  color: #0aac87;
+  color: pink;
 }
 #edu-group #post-tab-group-all .group-card:hover {
   cursor: pointer;
-  background-color: #0aac87;
+  background-color: pink;
 }
 #edu-group #post-tab-group-all .group-card:hover img {
   transform: scale(1.2);
@@ -1964,7 +1964,7 @@ a.group-posts-tab {
   line-height: 48px;
 }
 #edu-group .create-group-bar:hover {
-  background-color: #0aac87;
+  background-color: pink;
   color: #fff;
 }
 #edu-group .side-hotgroup a:hover {
@@ -2007,7 +2007,7 @@ a.group-posts-tab {
   box-shadow: none;
   text-shadow: none;
   padding: 0 8px;
-  color: #0aac87;
+  color: pink;
   border: 1px solid #ddd;
   background-color: #fff;
   background-image: none;
@@ -2016,9 +2016,9 @@ a.group-posts-tab {
 }
 #edu-group .side-hotgroup .info a.btn:hover {
   text-decoration: none;
-  border: 1px solid #0aac87;
+  border: 1px solid pink;
   color: #fff;
-  background-color: #0aac87;
+  background-color: pink;
 }
 #edu-group .side-hotgroup .separator {
   border-top: 1px solid #eee;
@@ -2028,7 +2028,7 @@ a.group-posts-tab {
   margin-bottom: 0;
 }
 .group-menu li.active a {
-  background-color: #0aac87;
+  background-color: pink;
 }
 .group-menu li.active a:hover {
   background-color: #009873 !important;
@@ -2042,11 +2042,11 @@ a.group-posts-tab {
   font-size: 16px !important;
 }
 .group-menu a:hover {
-  background-color: #0aac87 !important;
+  background-color: pink !important;
 }
 /**  ----------  reser  ----------  */
 .green {
-  color: #0aac87;
+  color: pink;
 }
 .group-header .admin a.btn {
   border-radius: 0;
@@ -2253,11 +2253,11 @@ a.group-posts-tab {
   text-shadow: none;
   background-color: #fff;
   background-image: none;
-  color: #0aac87;
+  color: pink;
   border: none;
 }
 .add-course a:hover {
-  background-color: #0aac87;
+  background-color: pink;
   background-image: none;
   color: #fff;
 }

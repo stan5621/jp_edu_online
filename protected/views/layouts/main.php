@@ -33,15 +33,19 @@
                 </div>
             </form>
         </div>
-        <div class="">
-        <?php
-            global $sysSettings;
-            if(isset($sysSettings['site']['logo'])):
-                $img=CHtml::image(Yii::app()->baseUrl."/".$sysSettings['site']['logo'],"",array('style'=>'height:46px;margin-top:-4px;'));
-                echo CHtml::link($img,Yii::app()->baseUrl."/");
-            endif;
-        ?>
+        <div class="site_name" style="font-size:30px;margin-left:-9px;">
+            <a style="color:#444444" href="http://bagexuetang.com">八哥课堂</a>
         </div>
+<!--        <div class="logo" style="margin-left:-69px;"> -->
+
+        <?php
+//            global $sysSettings;
+//            if(isset($sysSettings['site']['logo'])):
+//                $img=CHtml::image(Yii::app()->baseUrl."/".$sysSettings['site']['logo'],"",array('style'=>'height:90px;margin-top:-26px;'));
+//                echo CHtml::link($img,Yii::app()->baseUrl."/");
+//            endif;
+        ?>
+<!--        </div> -->
     </div>
 </div>
 <div class="clearfix"></div>
@@ -240,17 +244,17 @@ array(
     <div class="container">
         <div class="row">
             <div class="span11 offset1">
-                <div style="padding:15px 0;color:white;">
+                <div style="padding:15px 0;color:#444444;">
                     Powered by
                     <strong>
                         <?php if(isset($sysSettings['site']['poweredBy'])){
-                            echo CHtml::link($sysSettings['site']['poweredBy'],$sysSettings['site']['poweredByUrl'],array('style'=>'color:white;'));
+                            echo CHtml::link($sysSettings['site']['poweredBy'],$sysSettings['site']['poweredByUrl'],array('style'=>'color:#444444;'));
                         }else{
-                            echo CHtml::link("EduWind","http://eduwind.com",array('style'=>'color:white;'));
+                            echo CHtml::link("八哥课堂","http://caomeikt.com",array('style'=>'color:#444444;'));
                         } ?>
                     </strong>
                     &nbsp;&nbsp;<?php echo Yii::app()->params['settings']['site']['icp'];?>
-                    &nbsp;&nbsp;&nbsp; Copyright &copy; <?php echo "2013-".date('Y'); ?>
+                    &nbsp;&nbsp;&nbsp; Copyright &copy; <?php echo "2015-".date('Y'); ?>
                 </div>
             </div>
         </div>
